@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function RightSideBar() {
-  return (
-    <div>RightSideBar</div>
-  )
+  return <div>RightSideBar updated by thisaru</div>;
 }
